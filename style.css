@@ -1,0 +1,76 @@
+body.Fondo {
+    background-color: powderblue;
+}
+
+header.titulo {
+    text-align: center;
+    color: orangered;
+}
+
+p.texto1 {
+    position: relative;
+    left: 400px;
+}
+
+section.fondoalicante {
+    background-color: red;
+    top: -40px;
+}
+
+img#img1 {
+    position: relative;
+    left: 400px;
+}
+
+p.texto2 {
+    text-align: center;
+    position: relative;
+    bottom: 170px;
+}
+
+img#img22 {
+   position: relative;
+   left: 670px;
+   bottom: -30px;
+
+}
+
+section.fondovalencia {
+    background-color: yellow;
+    top: -40px;
+}
+
+footer.pie {
+    position: relative;
+    top: -110px;
+    background-color: white;
+}
+
+p.textopie {
+    text-align: center;
+    
+ }
+
+span#nombre {
+     color: red;
+}
+    
+img#img3 {
+    position: relative;
+    left: 1000px;
+ 
+ }
+
+ section.fondocastellon {
+    background-color: thistle;
+    top: -40px;
+}
+
+p.texto3 {
+    position: relative;
+    left: 1000px;
+}
+
+span.fondofooter {
+    color: blue;
+}

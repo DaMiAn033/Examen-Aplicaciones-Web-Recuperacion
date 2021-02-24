@@ -1,0 +1,35 @@
+body.Fondo {
+    background-color: powderblue;
+}
+
+header.titulo {
+    text-align: center;
+    color: orangered;
+}
+
+footer.Pie {
+    position: relative;
+    top: -110px;
+    background-color: white;
+}
+
+p.Textopie {
+    text-align: center;
+    
+ }
+
+span#Nombre {
+     color: red;
+}
+
+p.texto4 {
+    color: blue;
+}
+
+section.fondo4 {
+    background-color: white;
+}
+
+span.fondofooter {
+    color: blue;
+}
